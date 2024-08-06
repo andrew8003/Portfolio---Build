@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3092aeaa.css",
-    "main.js": "/static/js/main.dd9e276b.js",
+    "main.js": "/static/js/main.0713609d.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/reactlogo.png": "/static/media/reactlogo.0cac64854bf2b699e77c.png",
     "static/media/phplogo.png": "/static/media/phplogo.bb6e5588262b89ce5573.png",
@@ -14,11 +14,11 @@
     "static/media/javascriptlogo.png": "/static/media/javascriptlogo.11e48bd3560e899f6332.png",
     "index.html": "/index.html",
     "main.3092aeaa.css.map": "/static/css/main.3092aeaa.css.map",
-    "main.dd9e276b.js.map": "/static/js/main.dd9e276b.js.map",
+    "main.0713609d.js.map": "/static/js/main.0713609d.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3092aeaa.css",
-    "static/js/main.dd9e276b.js"
+    "static/js/main.0713609d.js"
   ]
 }
